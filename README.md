@@ -1,4 +1,3 @@
-```
 # To-Do List API
 
 ## Project Description
@@ -226,4 +225,3 @@ For full test cases, see the Postman collection.
 Developed using Git with commit messages prefixed as "feat(talent-growth): [description]".
 
 For issues or contributions, open a pull request on GitHub.
-```
