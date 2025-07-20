@@ -30,7 +30,7 @@ Follow these steps to set up and run the API on your local machine (tested on Wi
 - Node.js (LTS version recommended; download from https://nodejs.org)
 - MongoDB (Community Server; download from https://www.mongodb.com/try/download/community)
 - Git (for cloning the repository)
-- Postman or similar tool (for testing API endpoints)
+- Postman (for testing API endpoints)
 
 ### Setup Steps
 1. **Clone the Repository**:
