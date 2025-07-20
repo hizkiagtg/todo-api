@@ -35,7 +35,7 @@ Follow these steps to set up and run the API on your local machine (tested on Wi
 ### Setup Steps
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/todo-api.git
+   git clone https://github.com/hizkiagtg/todo-api.git
    cd todo-api
    ```
 
